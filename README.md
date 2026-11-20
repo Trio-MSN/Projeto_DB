@@ -1,4 +1,4 @@
-Game Library – Biblioteca de Jogos
+# Game Library – Biblioteca de Jogos
 
 Sobre o projeto
 
